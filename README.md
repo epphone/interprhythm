@@ -106,7 +106,7 @@ Because the beats remain unquantized, at a resolution of 960 PPQN, the source ma
 - [FluCoMa, the Fluid Corpus Manipulation project](https://flucoma.org), whose machine learning objects for Max power the interpolation. Installation guide in the [FluCoMa documentation](https://learn.flucoma.org/installation/max/).
 - Built with [Max for Live](https://cycling74.com/products/max-for-live) (Cycling '74) for [Ableton Live](https://www.ableton.com/en/live/).
 
-Created by Antoine Goudreau ([@epphone](https://github.com/epphone)).
+interprhythm is the result of a collaboration between Antoine Goudreau ([@epphone](https://github.com/epphone)) and digital artists Woulg and Jean-Philippe Jullin.
 
 ## License
 
